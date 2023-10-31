@@ -25,7 +25,7 @@ export function About (){
                       </span>
                     </p>
         
-                    <table className="mt-4 w-full text-sm">
+                    <table className="mt-4 w-full text-sm overflow-hidden">
                       <tbody>
                         <tr>
                           <td className="font-headline font-bold uppercase text-pink-500">
