@@ -29,7 +29,7 @@ export function Hero (){
                     </a>
                     <span className="italic text-gray-500">ou</span>
                     <a
-                     href="https://drive.google.com/file/d/18gmvJyXdcwO7cKRb32ImhymqHF3DDt1h/view?usp=drive_link"
+                     href="https://drive.google.com/file/d/1SLHcf_VSG0Mir_MldKWvEu728UIyNYpc/view?usp=drive_link"
                         target="_blank"
                         className="button flex items-center gap-2 text-gray-600 hover:text-gray-900">
                         <HiDownload />
