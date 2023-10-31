@@ -16,7 +16,7 @@ export function About (){
             </div>
                 <div className="relative mx-auto mt-20 max-w-lg">
                     <div className="relative w-full rounded-lg bg-pink-100 p-4 ps-20 md:h-64 md:ps-48">
-                    <div className="relative h-full w-full rounded-lg bg-gray-50 p-4">
+                    <div className="relative h-full w-full rounded-lg bg-gray-50 p-4 overflow-x-hidden">
                     <p className="font-handwriting text-lg font-bold">Olá,</p>
                     <p>
                       <span className="mr-1">Meu nome é</span>
