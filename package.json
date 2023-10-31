@@ -1,5 +1,5 @@
 {
-  "name": "react-portfolio-projeto",
+  "name": "react-portifolio-projeto",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "homepage": "https://a-mariabarbara.github.io/Portfolio",
+    "homepage": "https://a-mariabarbara.github.io/Portifolio",
     "publish": "gh-pages -d src"
   },
   "dependencies": {
